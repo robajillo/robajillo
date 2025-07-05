@@ -7,7 +7,7 @@ My work is an intersection of clarity, sovereignty, and innovation.
 I don’t just build—I transmit.
 
 🌐 Explore my world:  
-- 🌌 [Instagram](https://instagram.com/yourusername) – visual expressions  
+- 🌌 [Instagram](https://instagram.com/robajillo6) – visual expressions  
 - 📁 [Projects](#projects) – from abstract generators to soulful interfaces  
 - 🧠 [Essence Log](#blog) – lessons, reflections, and visual metaphysics
 

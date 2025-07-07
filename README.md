@@ -7,14 +7,14 @@
 ## 🧭 Who I Am
 
 I’m a developer focused on clarity, discipline, and ethical design.  
-Inspired by Islamic principles like *niyyah* (intention), *ihsan* (excellence), and *adl* (justice), I build digital tools that reflect spiritual presence and creative precision.
+Inspired by Islamic principles *niyyah* (intention), *ihsan* (excellence), and *adl* (justice), I build digital tools that reflect spiritual presence and creative precision.
 
-I believe code can be an act of remembrance.  
-And software can become a signal of integrity.
+Code can be an act of remembrance.  
+Software can become a signal of integrity.
 
 ---
 
-## 🔧 What I Build
+## 🔧 What I Built
 
 - 🌙 **Faith-Guided Interfaces** → Tools and projects that align with Islamic ethics  
 - 🛠 **Clean, Modular Codebases** → JavaScript, HTML, CSS, Linux, Git-based systems  

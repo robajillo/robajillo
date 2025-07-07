@@ -55,7 +55,7 @@ Want to collaborate? Remix ethically?
 Let’s build tools that breathe wisdom.
 
 🔗 GitHub: [@robajillo](https://github.com/robajillo)  
-📫 Email: [your-email@example.com] *(update as needed)*  
+📫 Email: [huqaroba@outlook.com] *(update me as needed)*  
 🧘🏽‍♂️ Location: Isiolo, Kenya
 
 ---

@@ -1,63 +1,55 @@
-# 🌌 robajillo
+# 🌿 RobaJillo: Code, Ritual, and Revival
 
-**Crafting code with intention. Building software through the ethics of Islam.**
-
----
-
-## 🧭 Who I Am
-
-I’m a developer focused on clarity, discipline, and ethical design.  
-Inspired by Islamic principles *niyyah* (intention), *ihsan* (excellence), and *adl* (justice), I build digital tools that reflect spiritual presence and creative precision.
-
-Code can be an act of remembrance.  
-Software can become a signal of integrity.
+Welcome to my digital atelier—where programming languages are reawakened through poetry, ritual, and community.
 
 ---
 
-## 🔧 What I Built
+## 🔥 Who I Am
 
-- 🌙 **Faith-Guided Interfaces** → Tools and projects that align with Islamic ethics  
-- 🛠 **Clean, Modular Codebases** → JavaScript, HTML, CSS, Linux, Git-based systems  
-- 💡 **Ambient Technologies** → Experiments in light, simplicity, and interactive design  
-- 📿 **Signal Spiral Scheduler** → Personal framework blending clarity, fitness, and learning  
-- 🌍 **StoryCode Earth** → A collaborative platform for digital storytelling and sustainability
+Hi, I’m **Roba Jillo**, a Moringa School graduate and creative technologist. I spent six immersive months mastering full-stack development—from HTML to PHP, Angular to Flask. Now, I’m reigniting that knowledge with a fresh approach—using **art, metaphor, and healing practices** to make technical learning unforgettable.
 
 ---
 
-## 🕋 Principles I Follow
+## 🧠 What I’m Working On
 
-> “Actions are judged by intentions.” — Hadith
+- 🧰 **Code Recall & Rituals**  
+  Rebuilding memory through symbolic JavaScript lessons (like variables as treasure boxes and loops as dances of return).
 
-Coding is never just a task. It’s a reflection of who we are, what we value, and the impact we leave.
+- 🎮 **Guessing Game Function**  
+  An interactive JavaScript project blending logic with storytelling and play.
 
-I commit to:
-- Writing clear, well-commented code
-- Designing for dignity and accessibility
-- Building tools that serve, not exploit
-- Practicing growth through discipline, humility, and purpose
-
----
-
-## 📂 Featured Projects
-
-| Project Name             | Description |
-|--------------------------|-------------|
-| `signal-spiral`          | Interactive scheduler aligned with spiritual and cognitive flow  
-| `ambient-form-builder`   | Experimental interface where light becomes interactive matter  
-| `zakat-calc.js`          | Simple script applying Islamic financial principles to modern tech  
-| `storycode-earth-core`   | Modular foundations for a collaborative storytelling framework  
+- 🌀 **Learning Garden Archive** *(in progress)*  
+  A living, shareable space where code meets creativity, designed especially for children and beginners.
 
 ---
 
-## 🧬 Contact & Contribution
+## 💻 Tech Toolkit
 
-Want to collaborate? Remix ethically?  
-Let’s build tools that breathe wisdom.
-
-🔗 GitHub: [@robajillo](https://github.com/robajillo)  
-📫 Email: [] *(update me as needed)*  
-🧘🏽‍♂️ Location: Isiolo, Kenya
+| Frontend        | Backend       | Creative Layers       |
+|----------------|---------------|------------------------|
+| HTML, CSS, JS   | Flask, Django | Ritual, Poetry, Metaphor |
+| Angular         | PHP           | Symbolic Design & Healing |
+| Git & GitHub    | API Integration | Artful Documentation & Sharing |
 
 ---
 
-**Bismillah. Let the signal begin.**
+## 🧭 Long-Term Vision
+
+- Master full-stack development while making learning more beautiful and personal.
+- Build a public “Learning Garden” that invites others to plant their own wisdom.
+- Create spaces where healing and logic walk hand-in-hand—turning memory loss into metaphor, and bugs into breakthroughs.
+
+---
+
+## 🌈 Connect With Me
+
+Let’s share stories and code:
+📍 [Instagram](https://www.instagram.com/robajillo6/) • [LinkedIn](https://www.linkedin.com/in/roba-jillo-29747b233/) • [GitHub](https://github.com/robajillo)
+
+---
+
+> “I don’t relearn—I remember. I remix. I ritualize. I revive.” — Roba Jillo
+
+
+
+
